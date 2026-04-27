@@ -44,15 +44,20 @@ Esta aplicación web interactiva fue desarrollada con Streamlit para analizar un
 
 Tener instalado Python y Git.
 
+
+
 ### Pasos de instalación
 
-```bash
+
 git clone https://github.com/jhon9036/visualizacion-streamlit.git
 cd visualizacion-streamlit
 pip install -r requirements.txt
 streamlit run app.py
 
-```text
+## Despligue
+
  enlace de la app desplegada https://visualizacion-app-ewpzxyn7u7vlbqlqpmwpbq.streamlit.app/.
+
+ ## Autor
 
  Autor: Jhon Alexander Vargas Catuche
