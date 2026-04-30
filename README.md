@@ -56,7 +56,7 @@ streamlit run app.py
 
 ## Despligue
 
- enlace de la app desplegadahttps://visualizacion-app-ewpzxyn7u7vlbqlqpmwpbq.streamlit.app/
+ enlace de la app desplegada https://visualizacion-app-ewpzxyn7u7vlbqlqpmwpbq.streamlit.app/
 
  ## Autor
 
